@@ -62,3 +62,7 @@ explain(medium) :-
 explain(low) :-
     writeln("Only mildly dumb. Respectable.").
 
+% to run this code on windows press win + r and type for cmd
+% *you need to download the prolog to run.*
+%open the prolog typing_for swipl (on cmd)
+type this archive name and the program will run!
